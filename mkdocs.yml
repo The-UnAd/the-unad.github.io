@@ -1,6 +1,9 @@
 site_name: Future Home of The UnAd
 site_url: https://theunad.com
 remote_branch: gh-pages
+repo_url: https://github.com/The-UnAd/the-unad.github.io
+repo_name: the-unad.github.io
+remote_name: origin
 
 nav:
   - index.md
